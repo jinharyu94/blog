@@ -194,8 +194,8 @@ JavaScript Object Notation
 아래와 같은 포맷을 지켜야 함
 ```javascript
 var = data = {
- “employees” : [
-  {”firstName” : “John”, “lastName” : “Doe”},
+ 'employees' : [
+  {'firstName' : 'John', 'lastName' : 'Doe'},
   ]
  }
 ```
