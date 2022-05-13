@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "JavaScript 내장함수"
+subtitle: "다시 한번 JavaScript 스터디를 도전하면서 만든 내장함수 사전"
 author: "Jinha"
 categories: JavaScript
 tags: [Study,JavaScript]
