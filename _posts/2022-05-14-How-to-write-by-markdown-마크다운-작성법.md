@@ -3,7 +3,7 @@ layout: post
 title: "How to write by markdown"
 subtitle: "깃헙 블로그를 시작하며 정리한 마크다운 작성법"
 author: "Jinha"
-categories: study, etc
+categories: study etc
 tags: [study, markdown, github]
 ---
 
